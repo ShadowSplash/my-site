@@ -15,6 +15,7 @@ body {
   max-width: 928px;
   margin: 0 auto;
   padding: 0 16px;
+
 }
 
 .page-header {
@@ -47,7 +48,7 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 400px;
 }
 
 .hero-image .container {
